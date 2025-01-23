@@ -1,5 +1,6 @@
 # SQL Projects
 Repository with some SQL projects
+
 ---
 
 ## 1. Taxa de Churn
@@ -17,6 +18,7 @@ Calcula-se a taxa de churn mensal, que representa a proporção de assinaturas c
 ### 1.3 taxa_de_churn(comentado).sql
 Mesmo código de 1.2 com comentários adicionados.
 *(Same code as 1.2 with comments added.)*
+
 ---
 
 ## 2. Churn Rate
@@ -34,4 +36,5 @@ Database with customer ID, segment, start of subscription and end of subscriptio
 ### 2.3 churn_rate.sql
 SQL query that calculates churn rate.
 *(Consulta sql que calcula a taxa de rotativadade.)*
+
 ---
